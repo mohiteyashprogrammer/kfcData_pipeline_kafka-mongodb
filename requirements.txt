@@ -1,0 +1,5 @@
+pandas 
+numpy
+confluent-kafka
+portalocker
+pymongo
